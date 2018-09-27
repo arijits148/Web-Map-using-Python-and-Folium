@@ -6,6 +6,4 @@ __Requires:__
 * leaflet
 * GeoJson.io(from mapbox)
 
-__Output:__
 
-![Webmap Image](C:/Users/ariji/Desktop)
